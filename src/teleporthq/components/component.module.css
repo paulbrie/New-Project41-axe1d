@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.image {
+  width: 351px;
+  height: 177px;
+  object-fit: cover;
+  margin-right: var(--dl-space-space-twounits);
+}
+.container1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.text {
+  margin-bottom: var(--dl-space-space-twounits);
+}
